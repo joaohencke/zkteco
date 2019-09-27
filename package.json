@@ -1,0 +1,17 @@
+{
+  "name": "zkteco-readfile",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Joao Hencke <joao.hencke@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js --inspect"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "zklib": "^0.2.11"
+  }
+}
