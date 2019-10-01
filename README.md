@@ -2,12 +2,12 @@
 
 ## What I need?
 
-- Node >= 10;
-- Yarn.
+- Node >= 10
+- Yarn
 
 ## How to?
 
-- Install dependencies typing: `yarn`;
+- Install dependencies typing: `yarn`
 - Run script typing: `yarn start`
 
 
